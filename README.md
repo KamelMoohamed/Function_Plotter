@@ -63,22 +63,26 @@ py mainwindow.py
 ![Toolbar Using](./Documentation_Source/t1_1.PNG)
 ![Toolbar Output](./Documentation_Source/t1_2.PNG)
 
-\
+<br>
 
 > ### Test 2
 
+\
 ![Infinity Output Test](./Documentation_Source/t2.PNG)
 
-\
+<br>
 
 > ### Test 3
+>
+> \
+> ![Complex Function Plotting Test](./Documentation_Source/t3.PNG)
 
-![Complex Function Plotting Test](./Documentation_Source/t3.PNG)
-
+<br>
 <a id="et"></a>
 
-## Errors Tests
+> ## Errors Tests
 
+\
 ![Empty Input Fields](./Documentation_Source/t4.PNG)
 ![Wrong Equtions](./Documentation_Source/t5.PNG)
 ![Min is larger than Max](./Documentation_Source/t6.PNG)
